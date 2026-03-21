@@ -10,8 +10,7 @@ This is achieved by configuring job schedules that run on a daily basis,ensuring
 
 Data explanation:
 
-In a working environment where ETL is used routinely, I can coordinate with data engineering teams to automate data flow processes.
-I can easily adapt to any cloud-based data warehouses and tools, including Snowflake, RedShift, AWS, and BigQuery,
-which are accessible for processing data analysis. 
+In a working environment where ETL is used routinely, I can coordinate with data engineering/IT teams to automate data flow processes.
+I can easily adapt to any cloud-based data warehouses and tools, including Snowflake, RedShift, AWS, and BigQuery,which are accessible for processing data analysis. 
 
 Thank you for your questions and feedback.
